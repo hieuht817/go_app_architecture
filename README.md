@@ -1,3 +1,3 @@
 # go_app_architecture
 
-Some note on Golang Architecture learning way
+Some note on my Golang Architecture learning way
